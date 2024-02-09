@@ -37,6 +37,18 @@ QBCore é uma organização que fornece código-fonte aberto para a comunidade F
 ### Ps-Admin:
 ![](https://i.imgur.com/A6gSYx9.jpeg)
 
+### qb-Phone:
+![](https://i.imgur.com/WKwdjue.png)
+![](https://i.imgur.com/DIri9nV.png)
+
+### qb-bank:
+![](https://i.imgur.com/kpOiZhy.jpeg)
+
+### qb-cityhall
+![](https://i.imgur.com/3uFpp7c.png)
+![](https://i.imgur.com/EiX1J6e.png)
+
+
 entre outras att.
 
 ## 📚 Documentação
