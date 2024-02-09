@@ -1,7 +1,7 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : New Wave Store
+ Source Server         : QBcore
  Source Server Type    : MySQL
  Source Server Version : 100428
  Source Host           : localhost:3306
