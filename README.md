@@ -31,6 +31,9 @@ QBCore é uma organização que fornece código-fonte aberto para a comunidade F
 ### Chat com visual Atualizado:
 ![](https://i.imgur.com/MZkvzd7.png)
 
+### Sistema Lockpick inspirado no Payday3:
+![](https://i.imgur.com/epXQiB6.jpeg)
+
 ### Ps-Admin:
 ![](https://i.imgur.com/A6gSYx9.jpeg)
 
