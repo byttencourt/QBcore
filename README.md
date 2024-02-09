@@ -24,7 +24,7 @@ QBCore é uma organização que fornece código-fonte aberto para a comunidade F
 ### radial-menu visual Atualizado:
 ![](https://i.imgur.com/YJYdcCN.png)
 
-### qb-Garages Atualizaodo e integrado com Qb-phone:
+### qb-Garages Atualizado e integrado com Qb-phone:
 ![](https://i.imgur.com/RzUJKoe.jpeg)
 ![](https://i.imgur.com/wYxJcN0.png)
 
