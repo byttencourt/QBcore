@@ -44,9 +44,20 @@ QBCore é uma organização que fornece código-fonte aberto para a comunidade F
 ### qb-bank:
 ![](https://i.imgur.com/kpOiZhy.jpeg)
 
-### qb-cityhall
+### qb-cityhall:
 ![](https://i.imgur.com/3uFpp7c.png)
 ![](https://i.imgur.com/EiX1J6e.png)
+
+### EasyDrift:
+![](https://i.imgur.com/qss7FS2.jpeg)
+
+### Sistema de Abastecimento com Mangueira e Compra de Postos de Combustivel:
+![](https://i.imgur.com/Vmi06cI.jpeg)
+![](https://i.imgur.com/9xKzQhh.png)
+![](https://i.imgur.com/ewjn7tB.jpeg)
+![](https://i.imgur.com/AqYBGE0.png)
+![](https://i.imgur.com/1aZ32n4.png)
+
 
 
 entre outras att.
