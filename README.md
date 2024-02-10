@@ -18,17 +18,17 @@ QBCore é uma organização que fornece código-fonte aberto para a comunidade F
 ### qb-inventory com Css editado:
 ![](https://i.imgur.com/xLeaMFQ.jpeg)
 
-### qb-barbershop Atualizado:
+### qb-barbershop:
 ![](https://i.imgur.com/8kkReVB.jpeg)
 
-### radial-menu visual Atualizado:
+### radial-menu:
 ![](https://i.imgur.com/YJYdcCN.png)
 
-### qb-Garages Atualizado e integrado com Qb-phone:
+### qb-Garages integrado com Qb-phone:
 ![](https://i.imgur.com/RzUJKoe.jpeg)
 ![](https://i.imgur.com/wYxJcN0.png)
 
-### Chat com visual Atualizado:
+### Chat:
 ![](https://i.imgur.com/MZkvzd7.png)
 
 ### Sistema Lockpick inspirado no Payday3:
